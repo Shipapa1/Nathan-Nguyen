@@ -16,6 +16,11 @@ I'm a Computer Engineer with a passion for **frontend development, embedded syst
 - Created a **real-time stock tracking app** using React & API integrations  
 - Displayed fake live stock data and historical trends for better investment insights
 
+### 🎮 [KillButt - A Rogue-like Top-Down Shooter](https://github.com/Shipapa1/KillButt-Game)
+- Building a **rogue-like top-down shooter** with Unity
+- Features fast-paced combat, melee and ranged weapons, randomized loot, and scalable difficulty
+- Includes dynamic enemy AI, player progression, and boss battles
+
 ### 🛒 [Shared Shopping Cart](https://github.com/Shipapa1/Shop-It-Up)  
 - Built **cart, checkout, and login pages** with TypeScript  
 - Routed backend APIs and improved request handling  
@@ -28,10 +33,6 @@ I'm a Computer Engineer with a passion for **frontend development, embedded syst
 - Building a **user-driven travel rating platform** with React & MongoDB  
 - Features user reviews, location-based recommendations, and interactive maps
 
-### 🎮 [KillButt - A Rogue-like Top-Down Shooter](https://github.com/Shipapa1/KillButt-Game)
-- Building a **rogue-like top-down shooter** with Unity
-- Features fast-paced combat, melee and ranged weapons, randomized loot, and scalable difficulty
-- Includes dynamic enemy AI, player progression, and boss battles
 
 
 
