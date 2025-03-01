@@ -9,7 +9,8 @@ I'm a Computer Engineer with a passion for **frontend development, embedded syst
 - **Hardware & Embedded Systems:** FRDM Board, Arduino, SPI, Circuit Design  
 - **Other:** Git, Verilog, Cache Simulation, System Optimization  
 
-## 📌 Notable Projects  
+## 📌 Notable Projects  (click on the title to go to respository)
+
 ### 📈 [Stock Analysis Tool](https://github.com/Shipapa1/StockApp2)  
 - Created a **real-time stock tracking app** using React & API integrations  
 - Displayed live stock data and historical trends for better investment insights
