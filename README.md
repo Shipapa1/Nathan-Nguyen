@@ -26,7 +26,14 @@ I'm a Computer Engineer with a passion for **frontend development, embedded syst
 
 ### ✈️ [Travel Rating Website (In Progress)](https://github.com/Shipapa1/Travel-Rater)  
 - Building a **user-driven travel rating platform** with React & MongoDB  
-- Features user reviews, location-based recommendations, and interactive maps 
+- Features user reviews, location-based recommendations, and interactive maps
+
+### 🎮 [KillButt - A Rogue-like Top-Down Shooter (In Progress)](https://github.com/Shipapa1/KillButt)
+- Building a **rogue-like top-down shooter** with Unity
+- Features fast-paced combat, melee and ranged weapons, randomized loot, and scalable difficulty
+- Includes dynamic enemy AI, player progression, and boss battles
+
+
 
 ## 📫 Contact Me  
 📧 Email: [myduyisepic@gmail.com](mailto:myduyisepic@gmail.com)  
