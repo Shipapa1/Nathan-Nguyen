@@ -14,7 +14,7 @@ I'm a Computer Engineer with a passion for **frontend development, embedded syst
 
 ### 📈 [Stock Analysis Tool](https://github.com/Shipapa1/StockApp2)  
 - Created a **real-time stock tracking app** using React & API integrations  
-- Displayed live stock data and historical trends for better investment insights
+- Displayed fake live stock data and historical trends for better investment insights
 
 ### 🛒 [Shared Shopping Cart](https://github.com/Shipapa1/Shop-It-Up)  
 - Built **cart, checkout, and login pages** with TypeScript  
