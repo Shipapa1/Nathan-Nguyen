@@ -10,25 +10,24 @@ I'm a Computer Engineer with a passion for **frontend development, embedded syst
 - **Other:** Git, Verilog, Cache Simulation, System Optimization  
 
 ## 📌 Notable Projects  
-### 📈 [Stock Analysis Tool](https://github.com/your-repo)  
+### 📈 [Stock Analysis Tool](https://github.com/Shipapa1/StockApp2)  
 - Created a **real-time stock tracking app** using React & API integrations  
 - Displayed live stock data and historical trends for better investment insights
 
-### 🛒 [Shared Shopping Cart](https://github.com/your-repo)  
+### 🛒 [Shared Shopping Cart](https://github.com/Shipapa1/Shop-It-Up)  
 - Built **cart, checkout, and login pages** with TypeScript  
 - Routed backend APIs and improved request handling  
 
-### 🎮 [Game Chatroom](https://github.com/your-repo)  
-- Developed a **real-time chatroom for gamers** using React and MongoDB  
+### 🎮 [Game Chatroom](https://github.com/Shipapa1/Radar)  
+- Developed a **real-time chatroom for gamers** using React Websocket.io MongoDB  
 - Implemented GitHub login and encrypted user authentication  
 
-### ✈️ [Travel Rating Website (In Progress)](https://github.com/your-repo)  
+### ✈️ [Travel Rating Website (In Progress)](https://github.com/Shipapa1/Travel-Rater)  
 - Building a **user-driven travel rating platform** with React & MongoDB  
 - Features user reviews, location-based recommendations, and interactive maps 
 
 ## 📫 Contact Me  
 📧 Email: [myduyisepic@gmail.com](mailto:myduyisepic@gmail.com)  
-📱 Phone: (661)-448-0497  
 💼 LinkedIn: ([https://www.linkedin.com/in/nathan-nguyen-a0a9481b8/]
 ---
 
