@@ -29,7 +29,7 @@ I'm a Computer Engineer with a passion for **frontend development, embedded syst
 ## 📫 Contact Me  
 📧 Email: [myduyisepic@gmail.com](mailto:myduyisepic@gmail.com)  
 📱 Phone: (661)-448-0497  
-💼 LinkedIn: [linkedin.com/in/nathan-nguyen]([https://www.linkedin.com/in/nathan-nguyen-a0a9481b8/]
+💼 LinkedIn: ([https://www.linkedin.com/in/nathan-nguyen-a0a9481b8/]
 ---
 
 ⚡ **Let's build something awesome together!** 🚀  
