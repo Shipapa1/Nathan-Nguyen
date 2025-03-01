@@ -28,7 +28,7 @@ I'm a Computer Engineer with a passion for **frontend development, embedded syst
 - Building a **user-driven travel rating platform** with React & MongoDB  
 - Features user reviews, location-based recommendations, and interactive maps
 
-### 🎮 [KillButt - A Rogue-like Top-Down Shooter (In Progress)](https://github.com/Shipapa1/KillButt)
+### 🎮 [KillButt - A Rogue-like Top-Down Shooter](https://github.com/Shipapa1/KillButt-Game)
 - Building a **rogue-like top-down shooter** with Unity
 - Features fast-paced combat, melee and ranged weapons, randomized loot, and scalable difficulty
 - Includes dynamic enemy AI, player progression, and boss battles
