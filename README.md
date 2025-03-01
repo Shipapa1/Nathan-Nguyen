@@ -19,7 +19,7 @@ I'm a Computer Engineer with a passion for **frontend development, embedded syst
 ### 🛒 [Shared Shopping Cart](https://github.com/Shipapa1/Shop-It-Up)  
 - Built **cart, checkout, and login pages** with TypeScript  
 - Routed backend APIs and improved request handling
-- 
+  
 ### 🎮 [KillButt - A Rogue-like Top-Down Shooter](https://github.com/Shipapa1/KillButt-Game)
 - Building a **rogue-like top-down shooter** with Unity
 - Features fast-paced combat, melee and ranged weapons, randomized loot, and scalable difficulty
