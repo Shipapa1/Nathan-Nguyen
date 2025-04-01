@@ -37,7 +37,7 @@ I'm a Computer Engineer with a passion for **frontend development, embedded syst
 
 
 ## 📫 Contact Me  
-📧 Email: [myduyisepic@gmail.com](mailto:myduyisepic@gmail.com)  
+📧 Email: [NathanDNguyen2002@gmail.com](mailto:NathanDNguyen2002@gmail.com)  
 💼 LinkedIn: ([https://www.linkedin.com/in/nathan-nguyen-a0a9481b8/]
 ---
 
