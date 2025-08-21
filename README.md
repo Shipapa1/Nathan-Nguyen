@@ -5,8 +5,9 @@ I'm a Computer Engineer with a passion for **frontend development, embedded syst
 
 ## 🔧 Skills  
 - **Languages:** TypeScript, JavaScript, Python, C++, C, Java, Assembly, HTML, CSS  
-- **Frameworks & Tools:** React, Angular, Unity, MongoDB, Arduino IDE  
-- **Hardware & Embedded Systems:** FRDM Board, Arduino, SPI, Circuit Design  
+- **Frameworks & Tools:** React, Next.js, Firebase, Tailwind, Angular, Unity, MongoDB, Arduino IDE
+- **AI:** Google Gemeni, Vapi.ai
+- **Hardware & Embedded Systems:** FRDM Board, Arduino, SPI, Circuit Design, Testing tools   
 - **Other:** Git, Verilog, Cache Simulation, System Optimization  
 
 ## 📌 Notable Projects 
