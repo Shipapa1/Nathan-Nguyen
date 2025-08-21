@@ -12,7 +12,7 @@ I'm a Computer Engineer with a passion for **frontend development, embedded syst
 ## 📌 Notable Projects 
 ##(click on the title to go to respository)
 
-### ✈️ [Ai Interviewing Website](https://github.com/Shipapa1/InterviewAi)  
+### 🤖 [Ai Interviewing Website](https://github.com/Shipapa1/InterviewAi)  
 - Built a **user-driven ai interview platform** with Next.js, TypeScript, Firebase, Google Gemini, Vapi.AI, Tailwind CSS
 - AI Interviewer is a full-stack platform with Firebase authentication, Vapi.AI voice-enabled real-time interviews, Google Gemini-powered adaptive question generation and scoring, a dashboard to track past interviews, and a modern Tailwind CSS/Shadcn UI for a seamless user experience.
 
