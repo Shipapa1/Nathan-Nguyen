@@ -12,6 +12,11 @@ I'm a Computer Engineer with a passion for **frontend development, embedded syst
 ## 📌 Notable Projects 
 ##(click on the title to go to respository)
 
+### ✈️ [Ai Interviewing Website](https://github.com/Shipapa1/InterviewAi)  
+- Built a **user-driven ai interview platform** with Next.js, TypeScript, Firebase, Google Gemini, Vapi.AI, Tailwind CSS
+- AI Interviewer is a full-stack platform with Firebase authentication, Vapi.AI voice-enabled real-time interviews, Google Gemini-powered adaptive question generation and scoring, a dashboard to track past interviews, and a modern Tailwind CSS/Shadcn UI for a seamless user experience.
+
+
 ### 📈 [Stock Analysis Tool](https://github.com/Shipapa1/StockApp2)  
 - Created a **real-time stock tracking app** using React & API integrations  
 - Displayed fake live stock data and historical trends for better investment insights
@@ -29,9 +34,6 @@ I'm a Computer Engineer with a passion for **frontend development, embedded syst
 - Developed a **real-time chatroom for gamers** using React Websocket.io MongoDB  
 - Implemented GitHub login and encrypted user authentication  
 
-### ✈️ [Travel Rating Website (In Progress)](https://github.com/Shipapa1/Travel-Rater)  
-- Building a **user-driven travel rating platform** with React & MongoDB  
-- Features user reviews, location-based recommendations, and interactive maps
 
 
 
